@@ -4,7 +4,7 @@ Google Authenticator(2fa) With CodeIgniter
 
 Integrate Two Factor Authentication with Google Authenticator into the Codeigniter project
 
-[![Build Status](https://scrutinizer-ci.com/g/asad041/google-authenticator-ci/badges/build.png?b=master)](https://scrutinizer-ci.com/g/asad041/google-authenticator-ci/build-status/master)
+https://scrutinizer-ci.com/g/asad041/google-authenticator-ci/badges/build.png?b=master
 
 *******************
 Developer Setup
